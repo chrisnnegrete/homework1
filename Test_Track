@@ -13,6 +13,8 @@ Data/Model: (Video shows complete process from 3:45)
 -Power of the car
 -Styling of the car
 
+-Note that all attributes are based on four criteria: Capability, Efficiency, Responsiveness, and Power.
+
 Render:
 -All screens displaying the options
 -Optimization of the vehicle shape
@@ -21,6 +23,9 @@ Render:
 -RFID scanners illuminating
 -Simcar ride
 -Simcar data displayed on the screens
+-MPH Display during power test
+-Sound effects
+-Lighting
 
 Simulation:
 -The actual ride experience is the same for all riders, however the data displayed for the riders' individual car designs on the screen differ based on performance results. 
