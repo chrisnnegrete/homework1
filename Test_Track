@@ -1,0 +1,36 @@
+Example 2: Test Track at Epcot, Walt Disney World, Orlando, FL
+https://www.youtube.com/watch?v=JBDLPOkqstw
+Data/Model: (Video shows complete process from 3:45)
+-RFID Cards given to individual riders to "design" their own car
+-Language selection
+-Vehicle type selection
+-Creating the shape of the vehicle by drawing a line between two points
+-Optimizing the shape of the vehicle for better performance
+-Exploring other shapes
+-Sculpting the shape of the car
+-Length of the car
+-Width of the car
+-Power of the car
+-Styling of the car
+
+Render:
+-All screens displaying the options
+-Optimization of the vehicle shape
+-Attributes of the car forming the final concept
+-Timer counting down
+-RFID scanners illuminating
+-Simcar ride
+-Simcar data displayed on the screens
+
+Simulation:
+-The actual ride experience is the same for all riders, however the data displayed for the riders' individual car designs on the screen differ based on performance results. 
+
+Events:
+-Scanning RFID Cards engages the program and allows you to begin designing your car
+-After designing the cars, the riders move to the next part of the queue where they board the simcars and scan their RFID cards to upload the data to that ride vehicle.
+-Results displayed on the screens
+-Scanning RFID card a final time to reveal the results of the users' data
+
+Input:
+-User scanning the RFID card
+-Selecting options and modifiers in 
